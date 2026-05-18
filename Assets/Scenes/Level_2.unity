@@ -1516,7 +1516,7 @@ MonoBehaviour:
   winScreen: {fileID: 115306399}
   winScreenTime: 3
   mainMenuSceneName: StartScene
-  timeBetweenWaves: 20
+  timeBetweenWaves: 10
   startOnAwake: 1
   spawnRadius: 10
   spawnHeightOffset: 1
@@ -1530,7 +1530,7 @@ Transform:
   m_GameObject: {fileID: 1859002475}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.01, y: 0.47, z: -26.44}
+  m_LocalPosition: {x: -0.01, y: 0.47, z: -21.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1566,7 +1566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 95980dc8e4dfbc0418e85c0100caa847, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 78.52
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 95980dc8e4dfbc0418e85c0100caa847, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1696,7 +1696,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 95980dc8e4dfbc0418e85c0100caa847, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 78.52
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 95980dc8e4dfbc0418e85c0100caa847, type: 3}
       propertyPath: m_LocalRotation.w
