@@ -1516,7 +1516,7 @@ MonoBehaviour:
   winScreen: {fileID: 115306399}
   winScreenTime: 3
   mainMenuSceneName: StartScene
-  timeBetweenWaves: 5
+  timeBetweenWaves: 2
   startOnAwake: 1
   spawnRadius: 10
   spawnHeightOffset: 1
